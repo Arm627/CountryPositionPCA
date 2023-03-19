@@ -10,6 +10,18 @@ knitr::opts_chunk$set(warning = FALSE, message = FALSE)
 ```
 
 
+# Summary
+
+![](static/pca_2.png)
+
+![](static/pca_1.png)
+
+![](static/clustered_3.png)
+
+
+
+# Read in Data
+
 ```{r}
 library(tidyverse)
 library(ggplot2)
@@ -20,7 +32,6 @@ library(ggflags)
 ```
 
 
-# Read in Data
 ```{r}
 # Economic Index By Country
 # Read in data
